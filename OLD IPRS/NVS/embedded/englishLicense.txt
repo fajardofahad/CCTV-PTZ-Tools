@@ -1,0 +1,79 @@
+End User License Agreement
+
+
+Please Note: For Your Perusal 
+Please peruse and understand all the rights and limits stipulated in the Launch Software End User License Agreement (hereinafter referred to as the Agreement). For installation, it is necessary that you peruse the Agreement and decide whether or not to accept its terms. You are not allowed to install the Software in your computer unless you accept the terms of the Agreement. For reference, you can print the text of the Agreement starting from this page or read the copy in the Help Files of the Software.    
+The Agreement is a legal protocol between you and Launch Company on the Launch Software specified herein. The Software refers to the computer software enclosed herein and possibly the relevant printed materials. Once you install the Software, it is assumed that you have accepted all the terms of the Agreement. If you don¡¯t accept the terms, you will not be allowed to install or use the Software.  
+The Software is protected by the Copyright Law of People¡¯s Republic of China, the International Copyright Treaties and the laws on intellectual property rights. You are hereby authorized to use but not to sell the Software. 
+
+I. Launch Company grants you the nonexclusive right to use the Software in Chinese Mainland (excluding Hong Kong SAR, Macau SAR and Taiwan). You are authorized to 
+
+install, display or execute a copy of the Software in a personal computer, workstation, terminal, portable computer or other digital electronic instruments.  
+make backup copies in case the copy is damaged. Those copies should not be offered to others by any means and must be destroyed when your ownership of the copy terminates.      
+make necessary amendments to the Software in order to use it for specific computer applications or to improve its functions. However, unless otherwise stipulated you should not supply any other party with the amended Software without the permission of Launch Company. 
+
+II. You promise as follows: 
+You will not use, copy, amend, rent or transfer the Software or any part of it in conflict with the terms of the Agreement. You will use the Software only in one computer. One Software License should not be shared or used by by different computers. The Software can be applied to a multi-user environmnet or Internet system based on one of the following prerequisites:  
+ ¡¡¡¡ 
+The Software is explicitly licensed for application to a multi-user environmnet or Internet system. 
+All the nodes and terminals using the Software have gained the license for usage. 
+
+You will never impose reverse engineering, decompilation or disassembly on the Software. 
+You will never lease, rent or lend the Software. 
+You will indicate all the copyright labels on all the copies of the Software. 
+
+III. Software Transfer 
+  You can make a permanent transfer of all the rights stipulated in the Agreement for only one time. Your license will terminate automatically upon the transfer. You can make the transfer on condition that  
+You should not reserve the copies. 
+You should transfer all the parts of the Software (including all the components, media, printed materials, upgraded version and the Agreement). 
+The transferee accept all the terms of the Agreement. 
+If the current Software is an upgraded version, the transfer should be made to include all the previous versions of the Software. 
+
+IV. Supporting Services
+Launch Company will provide you with the Software-related supporting services (Supporting Services).  
+The performance of the Supporting Services will be subject to the constraint of the regulations and terms in the User Handbook or other materials provided by the Launch Company. 
+Any extra software codes provided as part of the Supporting Services should be considered as an integral part of the Software, to which all the terms of the Agreement is applicable. 
+The technical information you provide as part of the Supporting Services can be used by Launch Company for commercial purposes such as product support and development. With the exception of providing you with the Supporting Services, Launch Company will not identify your personal data when using the technical information.  
+
+V. Software Replacement, Amendment and Upgrade
+Launch Company reserves the rights to replace, amend or upgrade the Software for the corresponding purpose and to charge for the replacement, amendment or upgrading.  
+Any replaced version, amended software codes or upgraded version provided by Launch Company will be considered as an integral part of the Software and is subject to the constraint of of the Agreement unless the Agreement is replaced by another agreement enclosed in the replaced, amended or upgraded version of the Software.   
+
+If Launch Company provides you with a replaced, amended or upgraded version of the Software, accordingly (a) your continuted usage of the Software is subject to the condition that you accept the Agreement concerning the replaced, amended or upgraded version of the Software or another agreement enclosed therein; (b) your license of using the previous versions of the Software will be terminated as regards the replaced, amended or upgraded version of the Software. 
+
+VI. Rights Reserved
+All the other rights not explicitly licensed are reserved for Launch Company.  
+
+VII. Software Copyright 
+The trade names of the Software and its copies coexist with the company marked on the disc or the Software. 
+The copyright and intellectual property rights of the Software (including but not limited to all the pictures, photos, video clips, audio clips, music, words and extra programs), all its copies, and the enclosed printing materials are possessed by Launch Company. 
+
+The Software and its files are copyrighted and protected by the PRC Copyright Law and relevant international treaties. 
+You should not delete the copyright notes in the Software. You are supposed to promise you will duplicate the notes of copyrights for (part or all of ) the copies. You should agree that the Software and its files should not be copied in any illegal way. 
+  You should not duplicate the printed materials enclosed in the Software. 
+
+VIII. Export Limits
+You should agree that you will not export or transit the Software, its components or any resultant programs or services to any other country or region other than the Chinese Mainland.     
+ 
+IX. After-sales Guarantee 
+Launch Company guarantees that under normal operating circumstances the Software contains no defective materials or techniques within 90 days since the date of sale. In case of a defect after testing, Launch Company will take the full responsibility and replace the defective software as the remedy. The guarantee will be invalid if the defect arises from accidents, misuse or errors. 
+
+The replacement will have the remainding period or a 30-day period of guarantee, the longer of which will be valid for guarantee.
+The Software is not given any other after-sales guarantee except for the above one.   
+
+
+
+X. Limited Liability
+The foregoing guarantee, whether explicitly or implicitly stated, is complete and covers the guarantee of merchantability and adaptability for special purposes. Within the scope of applicable laws, Launch Company or its suppliers shall by no means bear the liability for claims arising from any direct, indirect, accidental, special, or punitive damages when using or not using the Software even if Launch Company or its suppliers are notified in advance of the probability of such damages. The damage claims include but are not limited to the claims for personal injury, property damage, profit loss, business interruption, trade information loss, failure to fulfill the obligations, negligence, financial loss, or any other damage or loss. This disclaimer clause will remain valid even though the remedial measures taken have not fulfilled the goal as planned. 
+
+XI. License Termination 
+If you have not conformed with the terms and conditions of the Agreement, Launch Company is entitled to terminate the Agreement without infringing on other rights concerned. Upon termination of the Agreement, you must destroy all the copies of the Software or return them to Launch Company. 
+Launch Company is entitled to terminate the Agreement if we provide you with a substitute agreement on the Software or any replaced, amended or upgraded version of the Software and requires that your continued usage of the Software or any such version of the Software entails your acceptance of the substitute agreement.  
+
+XII. Laws Applicable 
+The Agreement is governed by such laws and regulations as the PRC Copyright Law, the PRC Computer Software Protection Regulations, the PRC Trademark Law, the PRC Patent Law, etc.  
+
+The Agreement is within the jurisdiction of the People¡¯s Republic of China and its laws concerned.
+Hereupon you must have perused and understood the Agreement. Thus, you should agree to abide by all the terms and conditions specified in the Agreement.
+
+XIII. If the user clicks YES on the installation note, this means the user trusts Launch Company and therefore is willing to install the Software and accept the Agreement. If the user is unwilling to install the Software and accept the Agreement, please click NO. 

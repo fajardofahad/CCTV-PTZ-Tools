@@ -1,0 +1,60 @@
+[PTZNAME]
+ptzname=SYYT
+[Address]
+Address01 =1
+Address02 =2
+Address03 =3
+Address04 =4
+Address05 =5
+Address06 =6
+Address07 =7
+Address08 =8
+Address09 =9
+Address10 =A
+Address11 =B
+Address12 =C
+Address13 =D
+Address14 =E
+Address15 =F
+Address16 =10
+[CtrlCode]
+Up_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,92,=8,FE,EE,EE
+Down_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,94,=8,FE,EE,EE
+Left_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,96,=8,FE,EE,EE
+Right_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,98,=8,FE,EE,EE
+Rotation_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,9A,=8,FE,EE,EE
+Rotation_Stop =FF,FF,FF,FF,00,00,10,00,00,00,^,9A,=8,FE,EE,EE
+AADD_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,86,=8,FE,EE,EE
+ADEC_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,88,=8,FE,EE,EE
+FADD_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,8C,=8,FE,EE,EE
+FDEC_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,8A,=8,FE,EE,EE
+DADD_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,8E,=8,FE,EE,EE
+DDEC_Start =FF,FF,FF,FF,00,00,10,00,00,00,^,90,=8,FE,EE,EE
+Up_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,93,=8,FE,EE,EE
+Down_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,93,=8,FE,EE,EE
+Left_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,97,=8,FE,EE,EE
+Right_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,97,=8,FE,EE,EE
+AADD_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,87,=8,FE,EE,EE
+ADEC_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,87,=8,FE,EE,EE
+FADD_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,8B,=8,FE,EE,EE
+FDEC_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,8B,=8,FE,EE,EE
+DADD_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,8F,=8,FE,EE,EE
+DDEC_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,8F,=8,FE,EE,EE
+Light_Start=FF,FF,FF,FF,00,00,10,00,00,00,^,A2,=8,FE,EE,EE
+Light_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,A3,=8,FE,EE,EE
+Rain_Start=FF,FF,FF,FF,00,00,10,00,00,00,^,A0,=8,FE,EE,EE
+Rain_Stop=FF,FF,FF,FF,00,00,10,00,00,00,^,A1,=8,FE,EE,EE
+IO_Start=
+IO_Stop=
+Track_Start=
+Track_Stop=
+[Comm]
+StopBit=1
+DataBit=8
+Parity=0
+Baud=4800
+[CmdCode]
+SetPoint=
+ClearPoint=
+GotoPoint=
+SetPointRotation=

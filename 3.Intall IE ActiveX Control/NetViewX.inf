@@ -1,0 +1,46 @@
+; INF file for NetViewX.cab
+[version]
+signature="$CHICAGO$"
+AdvancedINF=2.0  
+
+[Add.Code]
+NetViewX.ocx  = NetViewX.ocx
+NetClient.dll = NetClient.dll
+hi_h264dec_w.dll = hi_h264dec_w.dll
+mfc42.dll = mfc42.dll
+msvcrt.dll = msvcrt.dll
+olepro32.dll = olepro32.dll
+
+[NetViewX.ocx]
+file-win32-x86=thiscab
+FileVersion=7,7,0,0
+clsid={0C615F36-0C1C-497B-B9E4-833B0D7AA8CA}
+RegisterServer=yes
+
+[NetClient.dll]
+file-win32-x86=thiscab
+FileVersion=6,23,1,0
+DestDir=11
+
+[hi_h264dec_w.dll]
+file-win32-x86=thiscab
+FileVersion=1,0,0,0
+DestDir=11
+
+[msvcrt.dll]
+FileVersion=6,0,8168,0
+hook=mfc42installer
+
+[mfc42.dll]
+FileVersion=6,0,8168,0
+hook=mfc42installer
+
+[olepro32.dll]
+FileVersion=5,0,4261,0
+hook=mfc42installer
+
+[mfc42installer]
+file-win32-x86=VALUE=http://activex.microsoft.com/controls/vc/mfc42.cab
+run=%EXTRACT_DIR%\mfc42.exe
+
+; end of INF file

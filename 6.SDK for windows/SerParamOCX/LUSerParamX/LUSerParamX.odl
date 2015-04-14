@@ -1,0 +1,68 @@
+// LUSerParamX.odl : type library source for ActiveX Control project.
+
+// This file will be processed by the Make Type Library (mktyplib) tool to
+// produce the type library (LUSerParamX.tlb) that will become a resource in
+// LUSerParamX.ocx.
+
+#include <olectl.h>
+#include <idispids.h>
+
+[ uuid(01A12460-909D-4847-8193-0AF79F4EEC5F), version(2.3),
+  helpfile("LUSerParamX.hlp"),
+  helpstring("LUSerParamX ActiveX Control module"),
+  control ]
+library LUSERPARAMXLib
+{
+	importlib(STDOLE_TLB);
+	importlib(STDTYPE_TLB);
+
+	//  Primary dispatch interface for CLUSerParamXCtrl
+
+	[ uuid(9A8B902A-9EEF-4BE6-8183-31EE668A69DF),
+	  helpstring("Dispatch interface for LUSerParamX Control"), hidden ]
+	dispinterface _DLUSerParamX
+	{
+		properties:
+			// NOTE - ClassWizard will maintain property information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_PROP(CLUSerParamXCtrl)
+			//}}AFX_ODL_PROP
+
+		methods:
+			// NOTE - ClassWizard will maintain method information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_METHOD(CLUSerParamXCtrl)
+			[id(1)] long ShowParamPage(BSTR sername, BSTR serurl, short serport, BSTR username, BSTR password);
+			//}}AFX_ODL_METHOD
+	};
+
+	//  Event dispatch interface for CLUSerParamXCtrl
+
+	[ uuid(4C83F36A-9739-4A26-98E1-1405B90E0B62),
+	  helpstring("Event interface for LUSerParamX Control") ]
+	dispinterface _DLUSerParamXEvents
+	{
+		properties:
+			//  Event interface has no properties
+
+		methods:
+			// NOTE - ClassWizard will maintain event information here.
+			//    Use extreme caution when editing this section.
+			//{{AFX_ODL_EVENT(CLUSerParamXCtrl)
+			//}}AFX_ODL_EVENT
+	};
+
+	//  Class information for CLUSerParamXCtrl
+
+	[ uuid(3BB373E3-11C7-4173-9603-321D46F3F8F4),
+	  helpstring("LUSerParamX Control"), control ]
+	coclass LUSerParamX
+	{
+		[default] dispinterface _DLUSerParamX;
+		[default, source] dispinterface _DLUSerParamXEvents;
+	};
+
+
+	//{{AFX_APPEND_ODL}}
+	//}}AFX_APPEND_ODL}}
+};

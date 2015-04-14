@@ -1,0 +1,60 @@
+[PTZNAME]
+ptzname=PIH-1016(ภ๛ม่)
+[Address]
+Address01 =80
+Address02 =81
+Address03 =82
+Address04 =83
+Address05 =84
+Address06 =85
+Address07 =86
+Address08 =87
+Address09 =88
+Address10 =89
+Address11 =8A
+Address12 =8B
+Address13 =8C
+Address14 =8D
+Address15 =8E
+Address16 =8F
+[CtrlCode]
+Up_Start =^,0
+Down_Start =^,1
+Left_Start =^,2
+Right_Start =^,3
+Rotation_Start =^,F
+Rotation_Stop =^,E
+AADD_Start =^,6
+ADEC_Start =^,7
+FADD_Start =^,8
+FDEC_Start =^,9
+DADD_Start =^,5
+DDEC_Start =^,4
+Up_Stop=
+Down_Stop=
+Left_Stop=
+Right_Stop=
+AADD_Stop=
+ADEC_Stop=
+FADD_Stop=
+FDEC_Stop=
+DADD_Stop=
+DDEC_Stop=
+Light_Start=
+Light_Stop=
+Rain_Start=
+Rain_Stop=
+IO_Start=
+IO_Stop=
+Track_Start=
+Track_Stop=
+[Comm]
+StopBit=1
+DataBit=8
+Parity=1
+Baud =4800
+[CmdCode]
+SetPoint=
+SetPointRotation=
+GotoPoint=
+ClearPoint=

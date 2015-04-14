@@ -1,0 +1,14 @@
+dll:         all sdk library and header
+help:        sdk Documentation
+
+PlayDemo:    a demo program, preview and record as avi
+     bin:    Executable demo
+     
+SerParamOCX: a activeX control to config parameters of encoders.
+     bin:    Executable demo
+     LUSerParamX:  ActiveX control source code
+     test:   a activeX test program
+
+tools:       some tools
+     camsearch:  search encoders and decoders in local area network
+     updatewebrom.exe: update web of encoders    

@@ -1,0 +1,60 @@
+[PTZNAME]
+ptzname=PIH-FASTDOME(ภ๛ม่)
+[Address]
+Address01 =01
+Address02 =02
+Address03 =03
+Address04 =04
+Address05 =05
+Address06 =06
+Address07 =07
+Address08 =08
+Address09 =09
+Address10 =0A
+Address11 =0B
+Address12 =0C
+Address13 =0D
+Address14 =0E
+Address15 =0F
+Address16 =10
+[CtrlCode]
+Up_Start =^,04,00
+Down_Start =^,08,00
+Left_Start =^,02,00
+Right_Start =^,01,00
+Rotation_Start =^,00,0A
+Rotation_Stop =^,00,0A
+AADD_Start =^,00,00
+ADEC_Start =^,00,01
+FADD_Start =^,40,00
+FDEC_Start =^,80,00
+DADD_Start =^,20,00
+DDEC_Start =^,10,00
+Up_Stop=^,00,FF
+Down_Stop=^,00,FF
+Left_Stop=^,00,FF
+Right_Stop=^,00,FF
+AADD_Stop=^,00,FF
+ADEC_Stop=^,00,FF
+FADD_Stop=^,00,FF
+FDEC_Stop=^,00,FF
+DADD_Stop=^,00,FF
+DDEC_Stop=^,00,FF
+Light_Start=
+Light_Stop=
+Rain_Start=
+Rain_Stop=
+IO_Start=
+IO_Stop=
+Track_Start=
+Track_Stop=
+[Comm]
+StopBit=1
+DataBit=8
+Parity=1
+Baud =4800
+[CmdCode]
+SetPoint=^+80,00,00
+SetPointRotation=
+GotoPoint=^+40,!,00
+ClearPoint=

@@ -1,0 +1,60 @@
+[PTZNAME]
+ptzname=ÒøÐÅV1200
+[Address]
+Address01 =01
+Address02 =02
+Address03 =03
+Address04 =04
+Address05 =05
+Address06 =06
+Address07 =07
+Address08 =08
+Address09 =09
+Address10 =0A
+Address11 =0B
+Address12 =0C
+Address13 =0D
+Address14 =0E
+Address15 =0F
+Address16 =10
+[CtrlCode]
+Up_Start =&100,^,C0,70
+Down_Start =&100,^,C0,F0
+Left_Start =&100,^,C0,07
+Right_Start =&100,^,C0,0F
+Rotation_Start =^,80,0E
+Rotation_Stop =^,80,0F
+AADD_Start =&100,^,80,10
+ADEC_Start =&100,^,80,11
+FADD_Start =&100,^,80,14
+FDEC_Start =&100,^,80,15
+DADD_Start =&100,^,80,12
+DDEC_Start =&100,^,80,13
+Up_Stop=^,C0,00
+Down_Stop=^,C0,80
+Left_Stop=^,C0,00
+Right_Stop=^,C0,08
+AADD_Stop=^,80,1E
+ADEC_Stop=^,80,1E
+FADD_Stop=^,80,20
+FDEC_Stop=^,80,20
+DADD_Stop=^,80,1F
+DDEC_Stop=^,80,1F
+Light_Start=
+Light_Stop=
+Rain_Start=
+Rain_Stop=
+IO_Start=^,80,1C
+IO_Stop=^,80,1D
+Track_Start=
+Track_Stop=
+[Comm]
+StopBit =1
+DataBit =8
+Parity =1
+Baud =4800
+[CmdCode]
+SetPoint=^,A0,!
+SetPointRotation=
+GotoPoint=^,97,!
+ClearPoint=

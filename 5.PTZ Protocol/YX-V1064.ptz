@@ -1,0 +1,60 @@
+[PTZNAME]
+ptzname=ÒøÐÅV1064
+[Address]
+Address01 =00,01
+Address02 =00,02
+Address03 =00,03
+Address04 =00,04
+Address05 =00,05
+Address06 =00,06
+Address07 =00,07
+Address08 =00,08
+Address09 =00,09
+Address10 =00,0A
+Address11 =00,0B
+Address12 =00,0C
+Address13 =00,0D
+Address14 =00,0E
+Address15 =00,0F
+Address16 =01,00
+[CtrlCode]
+Up_Start =&500,SP,C8,0F,^,0F,00,+6
+Down_Start =&500,SP,C8,0F,^,07,00,+6
+Left_Start =&500,SP,C8,0F,^,00,0F,+6
+Right_Start =&500,SP,C8,0F,^,00,07,+6
+Rotation_Start =SP,C8,0C,^,00,0E,+6
+Rotation_Stop =SP,C8,0F,^,00,0F,+6,|,SP,C8,0F,^,00,08,+6,|,SP,C8,0F,^,00,08,+6
+AADD_Start =&500,SP,C8,0C,^,00,00,+6
+ADEC_Start =&500,SP,C8,0C,^,00,01,+6
+FADD_Start =&500,SP,C8,0C,^,00,04,+6
+FDEC_Start =&500,SP,C8,0C,^,00,05,+6
+DADD_Start =&500,SP,C8,0C,^,00,02,+6
+DDEC_Start =&500,SP,C8,0C,^,00,03,+6
+Up_Stop=SP,C8,0F,^,08,00,+6,|,SP,C8,0F,^,08,00,+6,|,SP,C8,0F,^,08,00,+6
+Down_Stop=SP,C8,0F,^,00,00,+6,|,SP,C8,0F,^,00,00,+6,|,SP,C8,0F,^,00,00,+6
+Left_Stop=SP,C8,0F,^,00,08,+6,|,SP,C8,0F,^,00,08,+6,|,SP,C8,0F,^,00,08,+6
+Right_Stop=SP,C8,0F,^,00,00,+6,|,SP,C8,0F,^,00,00,+6,|,SP,C8,0F,^,00,00,+6
+AADD_Stop=SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6
+ADEC_Stop=SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6
+FADD_Stop=SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6
+FDEC_Stop=SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6
+DADD_Stop=SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6
+DDEC_Stop=SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6,|,SP,C8,0C,^,00,06,+6
+Light_Start=SP,C8,0C,^,00,0A,+6
+Light_Stop=SP,C8,0C,^,00,0B,+6
+Rain_Start=
+Rain_Stop=
+IO_Start=SP,C8,0C,^,00,0C,+6
+IO_Stop=SP,C8,0C,^,00,0D,+6
+Track_Start=
+Track_Stop=
+[Comm]
+StopBit=1
+DataBit=8
+Parity=1
+Baud=4800
+[CmdCode]
+SetPoint=
+SetPointRotation=
+GotoPoint=
+ClearPoint=

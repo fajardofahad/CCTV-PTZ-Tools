@@ -1,0 +1,60 @@
+[PTZNAME]
+ptzname=TM-CIA(KONY)
+[Address]
+Address01 =1
+Address02 =2
+Address03 =3
+Address04 =4
+Address05 =5
+Address06 =6
+Address07 =7
+Address08 =8
+Address09 =9
+Address10 =A
+Address11 =B
+Address12 =C
+Address13 =D
+Address14 =E
+Address15 =F
+Address16 =10
+[CtrlCode]
+Up_Start=^,77,31
+Up_Stop=^,77,80
+Down_Start=^,77,32
+Down_Stop=^,77,80
+Left_Start=^,77,33
+Left_Stop=^,77,80
+Right_Start=^,77,34
+Right_Stop=^,77,80
+Rotation_Start=^,77,46
+Rotation_Stop=^,77,47
+AADD_Start=^,77,35
+AADD_Stop=^,77,80
+ADEC_Start=^,77,36
+ADEC_Stop=^,77,80
+FADD_Start=^,77,39
+FADD_Stop=^,77,80
+FDEC_Start=^,77,41
+FDEC_Stop=^,77,80
+DADD_Start=^,77,37
+DADD_Stop=^,77,80
+DDEC_Start=^,77,38
+DDEC_Stop=^,77,80
+Light_Start=^,77,4A
+Light_Stop=^,77,4B
+Rain_Start=^,77,48
+Rain_Stop=^,77,49
+IO_Start=^,77,44
+IO_Stop=^,77,45
+Track_Start=
+Track_Stop=
+[Comm]
+StopBit=1
+DataBit=8
+Parity=0
+Baud=4800
+[CmdCode]
+SetPoint=
+SetPointRotation=
+ClearPoint=
+GotoPoint=

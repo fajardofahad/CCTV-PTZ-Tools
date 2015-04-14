@@ -1,0 +1,60 @@
+[PTZNAME]
+ptzname=M800CI(KONY)
+[Address]
+Address01 =1
+Address02 =2
+Address03 =3
+Address04 =4
+Address05 =5
+Address06 =6
+Address07 =7
+Address08 =8
+Address09 =9
+Address10 =A
+Address11 =B
+Address12 =C
+Address13 =D
+Address14 =E
+Address15 =F
+Address16 =10
+[CtrlCode]
+Up_Start=%100,^,77,31,+3
+Up_Stop=%100,^,77,80,+3
+Down_Start=%100,^,77,32,+3
+Down_Stop=%100,^,77,80,+3
+Left_Start=%100,^,77,33,+3
+Left_Stop=%100,^,77,80,+3
+Right_Start=%100,^,77,34,+3
+Right_Stop=%100,^,77,80,+3
+Rotation_Start=%100,^,77,46,+3
+Rotation_Stop=%100,^,77,47,+3
+AADD_Start=%100,^,77,35,+3
+AADD_Stop=%100,^,77,80,+3
+ADEC_Start=%100,^,77,36,+3
+ADEC_Stop=%100,^,77,80,+3
+FADD_Start=%100,^,77,39,+3
+FADD_Stop=%100,^,77,80,+3
+FDEC_Start=%100,^,77,41,+3
+FDEC_Stop=%100,^,77,80,+3
+DADD_Start=%100,^,77,37,+3
+DADD_Stop=%100,^,77,80,+3
+DDEC_Start=%100,^,77,38,+3
+DDEC_Stop=%100,^,77,80,+3
+Light_Start=%100,^,77,4A,+3
+Light_Stop=%100,^,77,4B,+3
+Rain_Start=%100,^,77,48,+3
+Rain_Stop=%100,^,77,49,+3
+IO_Start=%100,^,77,44,+3
+IO_Stop=%100,^,77,45,+3
+Track_Start=
+Track_Stop=
+[Comm]
+StopBit=1
+DataBit=8
+Parity=0
+Baud=4800
+[CmdCode]
+SetPoint=
+SetPointRotation=
+ClearPoint=
+GotoPoint=
